@@ -1,0 +1,38 @@
+.main1 {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  background-color: blue;
+}
+
+.style {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  background-size: cover;
+  height: 20%;
+  width: 5%;
+}
+
+.primary {
+  display: flex;
+  flex-direction: column;
+  margin: 5px;
+  max-width: 30vw;
+}
+.secondry {
+  display: flex;
+  flex-direction: column;
+}
+
+.stye {
+  margin: 10px;
+  width: 70vw;
+  color: blueviolet;
+  background-color: red;
+  padding: 15px;
+}
+.otu {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
